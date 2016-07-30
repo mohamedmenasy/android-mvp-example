@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">android-mvp-example</string>
+  <string name="title">USD Based Exchanges</string>
+</resources>
